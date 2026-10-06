@@ -61,7 +61,7 @@ Welcome to **Connectiview**, your ultimate smart home device control application
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/paa-rth/connectiview.git
+   git clone https://github.com/pratima-b/ConnectiView-Smart-Home-App.git
    ```
 2. **Open the project in your preferred IDE:**
    - For Android Studio: `File` -> `Open` -> Select the `connectiview` directory
