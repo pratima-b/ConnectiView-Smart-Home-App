@@ -158,15 +158,6 @@ We welcome contributions from the community! Here's how you can help:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact 📬
-
-For any inquiries or feedback, feel free to reach out:
-
-- **Email:** [support@connectiview.com](mailto:support@connectiview.com)
-- **Website:** [Connectiview.com](https://connectiview.com)
-
-Thank you for choosing Connectiview! We hope it makes your smart home experience more convenient and enjoyable. Stay connected and in control. 🌐🔒
-
 ---
 
-*Connectiview is developed and maintained by ASAP Coders.™*
+Thank you for choosing Connectiview! We hope it makes your smart home experience more convenient and enjoyable. Stay connected and in control. 🌐🔒
